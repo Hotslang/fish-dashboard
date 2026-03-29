@@ -1,0 +1,12 @@
+export default function Home() {
+  return (
+    <div style={{
+      fontFamily: "Arial, sans-serif",
+      textAlign: "center",
+      marginTop: "50px",
+    }}>
+      <h1>Corydoras Fish Index Dashboard</h1>
+      <p>If you’re seeing this, deployment is working 👍</p>
+    </div>
+  );
+}
